@@ -39,9 +39,9 @@ Você pode visualizar a página online através do **GitHub Pages** (se ativado)
 ## 📂 Estrutura do projeto
 trilha-css-desafio-copia-do-discord/
 │
-├── index.html # Página principal
-├── style.css # Estilos responsivos
-└── README.md # Este arquivo
+- index.html # Página principal
+- style.css # Estilos responsivos
+- README.md # Este arquivo
 
 
 > As imagens utilizadas são assets oficiais do Discord (CDN) ou ilustrações livres.
@@ -55,10 +55,10 @@ trilha-css-desafio-copia-do-discord/
    git clone https://github.com/luialves95/trilha-css-desafio-copia-do-discord.git
 
    📱 Responsividade
-Dispositivo	Comportamento
-Desktop	Layout com duas colunas no hero, features lado a lado.
-Tablet	Colunas empilhadas, menu continua visível.
-Mobile	Menu oculto (hambúrguer), botões em largura total, textos reduzidos.
+- Dispositivo	- Comportamento
+- Desktop	- Layout com duas colunas no hero, features lado a lado.
+- Tablet	- Colunas empilhadas, menu continua visível.
+- Mobile	- Menu oculto (hambúrguer), botões em largura total, textos reduzidos.
 
 ## 👨‍💻 Autor
 
