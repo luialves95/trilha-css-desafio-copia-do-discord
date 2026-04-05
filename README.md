@@ -8,7 +8,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto é uma **réplica da landing page institucional do Discord** (site de marketing, não o aplicativo interno). Foi desenvolvido como parte dos desafios de CSS da [DIO](https://dio.me), com foco em:
+Este projeto é uma **réplica da landing page institucional do Discord**. Foi desenvolvido como parte dos desafios de CSS da [DIO](https://dio.me), com foco em:
 
 - **Layout responsivo** (mobile, tablet, desktop)
 - **Acessibilidade** (skip-link, semântica HTML5, contraste)
